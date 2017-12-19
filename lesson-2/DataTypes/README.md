@@ -34,7 +34,7 @@ bytes32 foo = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 ```
 
 ### Strings
-... String literals are written with either double or single-quotes (foo or bar). As with integer literals, their type can vary, but they are implicitly convertible to bytes type. Under the hood, strings are basically an arbitrary-length byte array.
+String literals are written with either double or single-quotes (foo or bar). As with integer literals, their type can vary, but they are implicitly convertible to bytes type. Under the hood, strings are basically an arbitrary-length byte array.
 
 ```javascript
 string text = "This is my string";
@@ -54,7 +54,7 @@ contract Address {
 }
 ```
 ### Enums
-> Enums are one way to create a user-defined type in Solidity where a keyword can be mapped to an integer value.
+Enums are one way to create a user-defined type in Solidity where a keyword can be mapped to an integer value.
 
 ```javascript
 contract Enums {

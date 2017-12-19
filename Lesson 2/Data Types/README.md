@@ -64,7 +64,7 @@ contract Enums {
 ```
 
 ### LESSON ASSIGNMENTS
-... Declare a boolean named myBool and assign a positive value to it
-... Declare any unsigned integer myNumber and assign a positive (non-zero) value to it
-... Declare a string myText and assign your name as its value
-... Declare any variable with the type of address
+1. Declare a boolean named myBool and assign a positive value to it
+2. Declare any unsigned integer myNumber and assign a positive (non-zero) value to it
+3. Declare a string myText and assign your name as its value
+4. Declare any variable with the type of address

@@ -66,16 +66,16 @@ Index access: `x[k] for 0 <= k < len(x)` returns the k-th element.
 `.push` works only for dynamic storage arrays and bytes (not string). It appends an element at the end of the array. The function returns the new length.
 
 ### LESSON ASSIGNMENTS
-1. In function booleanOperatorTest, negate the variable foo and assign the result to variable negation
-2. In function booleanOperatorTest, use logical and on variables foo and bar and assign the result to variable conjunction
-3. In function booleanOperatorTest, use logical or on variables foo and bar and assign the result to variable disjunction
-4. In function booleanOperatorTest, make sure variable equality is true when foo and bar are equal and is false otherwise.
-5. In function booleanOperatorTest, make sure variable inequality is true when foo and bar are not equal and is false otherwise.
-6. In function integerOperatorTest, make sure variable sum is equal to the sum of x and y
-7. In function integerOperatorTest, subtract y from x and assign the result to variable difference
-8. In function integerOperatorTest, multiply x and y and assign the result to variable product
-9. In function integerOperatorTest, divide x by y and assign the result to variable quotient
-10. In function integerOperatorTest, make sure remainder is equal to the remainder of x and y
-11. In function integerOperatorTest, raise x to the power of y and assign the result to variable power
-12. In function addressOperatorTest, make sure variable matches is true when owner and sender are the same
-13. In function addressOperatorTest, make sure variable doesntMatch is true when owner and sender are NOT the same
+1. In function `booleanOperatorTest`, negate the variable `foo` and assign the result to variable `negation`
+2. In function `booleanOperatorTest`, use logical `and` on variables `foo` and `bar` and assign the result to variable `conjunction`
+3. In function `booleanOperatorTest`, use logical `or` on variables `foo` and `bar` and assign the result to variable `disjunction`
+4. In function `booleanOperatorTest`, make sure variable `equality` is true when `foo` and `bar` are equal and is false otherwise.
+5. In function `booleanOperatorTest`, make sure variable `inequality` is true when `foo` and `bar` are not equal and is false otherwise.
+6. In function `integerOperatorTest`, make sure variable `sum` is equal to the sum of `x` and `y`
+7. In function `integerOperatorTest`, subtract `y` from `x` and assign the result to variable difference
+8. In function `integerOperatorTest`, multiply `x` and `y` and assign the result to variable product
+9. In function `integerOperatorTest`, divide `x` by `y` and assign the result to variable `quotient`
+10. In function `integerOperatorTest`, make sure `remainder` is equal to the remainder of `x` and `y`
+11. In function `integerOperatorTest`, raise `x` to the power of `y` and assign the result to variable `power`
+12. In function `addressOperatorTest`, make sure variable `matches` is true when `owner` and `sender` are the same
+13. In function `addressOperatorTest`, make sure variable `doesntMatch` is true when `owner` and `sender` are NOT the same
